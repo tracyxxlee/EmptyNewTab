@@ -1,0 +1,32 @@
+{
+	"appName" : {
+		"message" : "Empty new tab"
+	},
+	"appDesc" : {
+		"message" : "隱藏新頁籤的上的歷史清單，僅顯示主要的 Google 應用程式捷徑"
+	},
+	"YouTube" : {
+		"message" : "YouTube"
+	},
+	"Inbox" : {
+		"message" : "Inbox"
+	},
+	"Map" : {
+		"message" : "地圖"
+	},
+	"Calendar" : {
+		"message" : "日曆"
+	},
+	"Play" : {
+		"message" : "Play"
+	},
+	"Drive" : {
+		"message" : "雲端硬碟"
+	},
+	"Keep" : {
+		"message" : "Keep"
+	},
+	"Blogger" : {
+		"message" : "Blogger"
+	}
+}

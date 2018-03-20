@@ -1,0 +1,32 @@
+{
+	"appName" : {
+		"message" : "Empty new tab"
+	},
+	"appDesc" : {
+		"message" : "hide the list for usual new tab page, but show main Google application shortcuts"
+	},
+	"YouTube" : {
+		"message" : "YouTube"
+	},
+	"Inbox" : {
+		"message" : "Inbox"
+	},
+	"Map" : {
+		"message" : "Maps"
+	},
+	"Calendar" : {
+		"message" : "Calendar"
+	},
+	"Play" : {
+		"message" : "Play Store"
+	},
+	"Drive" : {
+		"message" : "Drive"
+	},
+	"Keep" : {
+		"message" : "Keep"
+	},
+	"Blogger" : {
+		"message" : "Blogger"
+	}
+}
