@@ -1,0 +1,52 @@
+.item_icon{
+    padding: 1px;
+    display: block;
+    height: 80px;
+    width: 86px;
+    border: 1px solid transparent;
+}
+
+.item_icon:hover {
+    border: 1px solid #e5e5e5;
+    cursor: pointer;
+}
+
+.item_icon img{
+    display: block;
+    margin: auto;
+    vertical-align: top;
+    height: 64px;
+    width: 64px;
+    background-color: darkgray;
+    padding: 0 10px;
+}
+
+.item_icon p{
+   display: block;
+   line-height: 20px;
+   overflow: hidden;
+   white-space: nowrap;
+   width: 84px;
+   text-overflow: ellipsis;
+   text-align: center;
+}
+
+.item_title {
+    text-align: center;
+    background-color: gray;
+    border-radius: 3px;
+    margin: 0 1px;
+}
+
+.item_list {
+    display: inline-flex;
+}
+
+.table {
+    display: table;
+}
+
+.row{
+    display: table-cell;
+    vertical-align: top;
+}
