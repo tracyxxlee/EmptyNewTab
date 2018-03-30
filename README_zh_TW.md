@@ -9,5 +9,8 @@
 ## 2. 預覽：
 <img src="https://github.com/tracyxxlee/EmptyNewTab/blob/master/screenshots/screenshot.png" width="300">
 
+## 3. 新增功能：
+1. [180330] 多語言
+2. [180330] 可自建項目
 ------
 如有任何建議，歡迎提出

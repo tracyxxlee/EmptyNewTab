@@ -1,9 +1,6 @@
 {
-	"appName" : {
-		"message" : "Empty new tab"
-	},
 	"appDesc" : {
-		"message" : "隱藏新頁籤的上的歷史清單，僅顯示主要的 Google 應用程式捷徑"
+		"message" : "客製化的新頁籤"
 	},
 	"YouTube" : {
 		"message" : "YouTube"

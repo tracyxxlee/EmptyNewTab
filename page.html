@@ -1,0 +1,44 @@
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body style="background: #ccc">
+  <div class="table">
+    <div class="row">
+    </div>
+    <ul id="item-list" class="item_list"></ul>
+    <!-- context menu START-->
+    <ul id="contextmenu" class="hidden">
+      <li>Remove</li>
+    </ul>
+    <!-- context menu END-->
+  </div>
+
+  <img src="../img/settings.png" class="setting">
+  <div class="setting-content hidden">
+    <div class="col-3 title">Add New Item</div>
+    <div class="col-3 input">
+      <input id="title" class="effect-16" type="text" placeholder="title">
+      <span class="focus-border"></span>
+    </div>
+    <div class="col-3 input">
+      <input id="url" class="effect-16" type="text" placeholder="url">
+      <span class="focus-border"></span>
+    </div>
+
+    <div class="col-3 options">
+      <div id="setting-save" class="button">Save</div>
+    </div>
+
+    <div class="col-3 close">
+      <img src="img/close.svg">
+  </div>
+  </div>
+  <script src="lib/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="page.js"></script>
+</body>
+
+</html>
